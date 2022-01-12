@@ -1,0 +1,32 @@
+body{
+    margin:15%;
+}
+.panel-heading{
+    background-color: rgb(37, 36, 36);
+}
+.panel-body{
+    height:200px ;
+}
+.heading{
+    text-decoration-color: aliceblue;
+}
+#first{
+    margin-top:5% ;
+    height:40px;
+    box-shadow:10px 10px 10px #302f2f;
+}
+#second{
+    margin-top:5% ;
+    height:40px;
+    box-shadow:10px 10px 10px #302f2f;
+}
+
+#button{
+    margin-top:13% ;
+}
+#output{
+   margin-left: 40%;
+  font-size: 20px;
+  font-weight: bold;
+  font-style:Arial;
+}
